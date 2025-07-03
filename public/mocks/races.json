@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "title": "Marathon de Rabat",
+    "location": "Rabat, Morocco",
+    "date": "October 26, 2025",
+    "distances": "10K, 21K, 42K",
+    "type": "Road",
+    "imageUrl": "https://images.unsplash.com/photo-1579761341022-d04583d7352b?q=80&w=1974&auto=format&fit=crop"
+  },
+  {
+    "id": 2,
+    "title": "Atlas Mountains Trail Challenge",
+    "location": "Imlil, Morocco",
+    "date": "November 9, 2025",
+    "distances": "30K, 50K",
+    "type": "Trail",
+    "imageUrl": "https://images.unsplash.com/photo-1594713992812-a1343cc78a13?q=80&w=2070&auto=format&fit=crop"
+  },
+  {
+    "id": 3,
+    "title": "Casablanca Urban Run",
+    "location": "Casablanca, Morocco",
+    "date": "December 1, 2025",
+    "distances": "5K, 10K",
+    "type": "City",
+    "imageUrl": "https://images.unsplash.com/photo-1600320254374-339392ac0f5e?q=80&w=1964&auto=format&fit=crop"
+  }
+]
